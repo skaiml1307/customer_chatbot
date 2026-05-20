@@ -12,3 +12,4 @@ regex==2026.5.9
 textblob==0.20.0
 tqdm==4.67.3
 Werkzeug==3.1.8
+gunicorn==26.0.0
